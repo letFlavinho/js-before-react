@@ -62,7 +62,7 @@ Like this we get an array with values, unstrucuting it all, returning only the v
 JSON.stringify(Object.entries(user));
 ```
 
-![imagem](images/JSON.stringify.entries.jpg.jpg)
+![imagem](images/JSON.stringify.entries.jpg)
 With the entries method it returns to us a vector with other vectors inside, very importante method, the best to return every data as we need.
 
 ### Destructuring
